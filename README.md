@@ -1,4 +1,4 @@
 ### Blogh
 
 
-this project started as learning tool. 
+This is Blog Made with Rails 7.
